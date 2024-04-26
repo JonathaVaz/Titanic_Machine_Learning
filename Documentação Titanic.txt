@@ -1,0 +1,48 @@
+>>> Autor : Jonatha Rodrigues Tenório Vaz
+
+>>> Data de Inicio : 10/04/2024
+
+>>> Data de Conclusão : **/**/****
+
+
+
+>>> Email : jonatharodriguestenoriovaz822@gmail.com
+
+>>> GitHub : https://github.com/JonathaVaz
+
+>>> LinkedIn : https://www.linkedin.com/in/jonatha-rodrigues-a51b42264?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4upEQlTxQY%2Bl4UgAjvg%2B9g%3D%3D
+
+
+
+Machine Learning - Classificação de Sobreviventes do Navio Titanic
+
+Documentação do Projeto : 
+
+- Projeto de IA - Machine Learning (Aprendizado de Máquina) para Classificação de Sobreviventes Tripulantes do Navio Titanic. Um projeto clássico de 
+Ciência de Dados e Machine Learning para trabalhar com dados estruturados em Python, visando a classificação dentro do mundo da Inteligencia Artificial, 
+tendo como saída (output) a previsão de sobreviventes do Titanic e suas características. Usei como guia de referencia o livro da O'Reilly "Machine Learning - Guia de Referencia Rápida".
+
+O desenvolvimento completo aconteceu no Visual Studio Code, usando como base a linguagem de programação Python e o Jupyter Notebook para criação do Modelo de ML, 
+Bibliotecas Python para Visualização de Dados, Tratamento e Limpeza de Dados, Métricas Avaliativas de Machine Learning e Predições com Algoritmos, Análise Estatística de Dados, 
+EDA - Análise Explorátoria de Dados, Pré-processamento de Dados, Seleção de Atributos, Pipelines e Redução de Dimensionalidade. 
+
+No que se refere ao projeto, é uma prática clássica da área de Ciência de Dados e Machine Learning desenvolver um modelo de classificação referente ao Titanic, existe inúmeros e diferentes modelos que é possível encontrar na internet sobre o mesmo tema. Consiste em você trabalhar com dados estruturados, usando técnicas de ciência de dados para criar um algoritmo de predição, que trás como saída (output) uma classificação de sobrevivência de acordo com as características/dados do tripulante.
+
+
+Principais Ferramentas do Desenvolvimento:
+
+- Jupyter Notebook 
+- Pandas 
+- Pandas Profilling
+- CatBoost
+- XGBoost
+- Numpy 
+- Matplotlib
+- Seaborn
+- Scipy
+- Scikit-Learn
+- Yellow Brick
+
+Conclusão do Projeto :
+
+- 
